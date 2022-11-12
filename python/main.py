@@ -16,7 +16,7 @@ from function import addCampo
 ################################################################################
 #                                 PRINCIPAL                                    #     
 ################################################################################
-fichero = "src\databases.txt"
+fichero = "..\databases.txt"
 listaSeries = abrirFichero(fichero)
 continuar = True
 while continuar == True:
