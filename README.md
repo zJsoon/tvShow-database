@@ -1,5 +1,5 @@
 # tvShow-database
-Simple system of storage of seen series programmed in python.
+Simple system of storage of seen series | Programmed -> python.
 
 # Features
 
