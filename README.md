@@ -1,5 +1,8 @@
 # tvShow-database
+
 Simple system of storage of seen series | Programmed -> python.
+
+[Contact Me!](https://zjson.dev/contact)
 
 # Features
 
